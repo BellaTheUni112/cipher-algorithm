@@ -32,7 +32,8 @@ def encrypt_file(input_path, output_path, passphrase):
 # put the passphrase in double quotes
 if __name__ == "__main__":
     if len(sys.argv) != 4:
-        print("Usage: python cipherfile.py <input> <output> <passphrase>")
+        print("Usage: python cipherfile.py <input filename> <output filename> <passphrase in double quotes>")
         sys.exit(1)
 
     encrypt_file(sys.argv[1], sys.argv[2], sys.argv[3])
+
