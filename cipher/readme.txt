@@ -7,5 +7,6 @@ the cipherinsane.py and decipherinsane.py use the best version with authenticati
 the cipherfile.py and decipherfile.py use a similar version to the ciperinsane.py and decipherinsane.py but it encrypts the raw bytes of files instead of just text, meaning it can encrypt any file.
 
 
-i have a little project for you, try to decrypt the image i have left you. (don't go looking for the passphrase or fragments of the passphrase i forgot it so i couldn't possibly give it to you)
+i have a little challenge for you, try to decrypt the image i have left you. (don't go looking for the passphrase or fragments of the passphrase i forgot it so i couldn't possibly give it to you)
+
 
