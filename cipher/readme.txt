@@ -6,7 +6,11 @@ the cipherevenbetter.py and decpherevenbetter.py use an even better version with
 the cipherinsane.py and decipherinsane.py use the best version with authentication
 the cipherfile.py and decipherfile.py use a similar version to the ciperinsane.py and decipherinsane.py but it encrypts the raw bytes of files instead of just text, meaning it can encrypt any file.
 
+the text versions (cipher, cipherupgraded, cipherevenbetter, cipherinsane) aren't nearly as secure as the cipherfile as they preserve structure, special characters, punctuation, and numbers.
+the file version encrypts the raw bytes and it mush more secure so if you care in the slihtest about security, use the file version, even for text.
+
 
 i have a little challenge for you, try to decrypt the image i have left you. (don't go looking for the passphrase or fragments of the passphrase i forgot it so i couldn't possibly give it to you)
+
 
 
