@@ -1,3 +1,19 @@
+Copyright (C) 2026  Turkey
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License Version 3 as published by
+the Free Software Foundation.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
+
 this is a pretty cool encryption/cipher algorithm.
 
 the cipher.py and decipher.py use the least advanced algorithm, it's a simple alphabet-shift cipher that shifts based on a key number
@@ -11,6 +27,7 @@ the file version encrypts the raw bytes and it's much more secure so if you care
 
 
 i have a little challenge for you, try to decrypt the image i have left you. (don't go looking for the passphrase or fragments of the passphrase i forgot it so i couldn't possibly give it to you)
+
 
 
 
