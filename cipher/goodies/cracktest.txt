@@ -1,0 +1,8 @@
+this was made using the original cipher.py and the cipherbruteforce.py
+
+
+
+Input : this is a super secret message i have ciphered, so if you're seeing this, fuck you. but i guess congrats on cracking this. i need to make this message long to give it a chance of being cracked but yeah. also, epstein didn't kill himself, just saying. but yeah i hope you like this cipher algorithm, anyway, bye.
+Encrypted : uqqz js i vwxhy akgtjc pntuikn n jgvl eqpjlwfj, tp jo gvv'rm vgmluo zlkx, oxll awy. kzv o gbgas evshxbut xv jsaknkvj apow. k snhm uq uetj vniz omsuhlf rpoh cw njvm lv i foitgg to enjpo gafeqek dct alfi. gmtp, nxzueqq fqgu'b qmnq qlvtgtj, szuz shaqni. izu efbi r pvqe grw tlrm zlkx llyigz eulqxiaju, apfbbe, czf.
+Cracked text: thos io a stpes secnet eesscih i hare eepiiief, so if eou'ne sdeiog thes, fmck yqw. eut i cugos dsegtats ot crwckhng uhis. e newd to ocne thes oastexe nong tu gire is a cianca of teini euackad dqt zirh. clso, evstain cido't kihl hamsenh, must oaaenh. flt aeah i nopa yot lile thes caphet cogoretji, aocnaa, bye.
+Cracked text interpretation: this is a stupid secret message i have encrypted, so if you’re seeing this, fuck you. but i guess congrats on cracking this. i need to make this message long to give us a chance of being cracked but yeah. also, epstein didn’t kill himself, must remain. but yeah i hope you like this cipher (algorithm), anyway, bye.
