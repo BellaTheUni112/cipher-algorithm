@@ -28,12 +28,16 @@ the file version encrypts the raw bytes and it's much more secure so if you care
 in the goodies folder, there's cipherfile2.py and decipherfile2.py which are more advanced and secure versions of cipherfile.py and decipherfile.py
 also, the cipherfile2.py and decipherfile2.py aren't compatible with cipherfile.py and decipherfile.py
 
+oh also i just made a new algorithm, it's pretty cool, i recommend you check it out
+they're the encrypt.py and decrypt.py
+
 the goodies folder is just some dev tools like keygens and crack tools
 
 NEVER use human-generated passphrases, use computer-generated passphrases, you can generate passhrases here: https://www.keepersecurity.com/en_GB/features/passphrase-generator/ and here: https://proton.me/pass/passphrase-generator
 
 
 i have a little challenge for you, try to decrypt the image i have left you. (don't go looking for the passphrase or fragments of the passphrase i forgot it so i couldn't possibly give it to you)
+
 
 
 
